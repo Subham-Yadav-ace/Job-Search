@@ -18,8 +18,8 @@ export default function Resume() {
   const [experiences, setExperiences] = useState([
     {
       id: 1,
-      title: "Senior Frontend Developer",
-      company: "Infosys",
+      title: "Full Stack Developer",
+      company: "Mastercard",
       location: "Bangalore, India",
       startDate: "2022-01",
       endDate: "Present",
